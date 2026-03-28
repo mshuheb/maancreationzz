@@ -8,7 +8,7 @@ export default function Contact() {
       <div className="contact-icons">
         {/* WhatsApp */}
         <a
-          href="https://wa.me/919187329274"
+          href="https://wa.me/919611115285"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-icon"
@@ -27,7 +27,7 @@ export default function Contact() {
         </a>
 
         {/* Phone */}
-        <a href="tel:+919187329274" className="contact-icon">
+        <a href="tel:+919611115285" className="contact-icon">
           <FaPhone />
         </a>
 
