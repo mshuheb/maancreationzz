@@ -1,11 +1,11 @@
 import { useState, useEffect } from "react";
-import img1 from "../assets/slide1.png";
-import img2 from "../assets/slide2.png";
-import img3 from "../assets/slide3.png";
+import img1 from "../assets/slide1.webp";
+import img2 from "../assets/slide2.webp";
+import img3 from "../assets/slide3.webp";
 
-import content1 from "../assets/desc1.png";
-import content2 from "../assets/desc2.png";
-import content3 from "../assets/desc3.png";
+import content1 from "../assets/desc1.webp";
+import content2 from "../assets/desc2.webp";
+import content3 from "../assets/desc3.webp";
 
 const slides = [
   {

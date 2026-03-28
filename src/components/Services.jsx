@@ -1,7 +1,7 @@
-import tshirt from "../assets/tshirt.png";
-import hoodie from "../assets/hoodie.png";
-import mug from "../assets/mug.png";
-import corporate from "../assets/corporate.png";
+import tshirt from "../assets/tshirt.webp";
+import hoodie from "../assets/hoodie.webp";
+import mug from "../assets/mug.webp";
+import corporate from "../assets/corporate.webp";
 
 const services = [
   {

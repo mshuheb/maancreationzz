@@ -1,6 +1,6 @@
 import { useState } from "react";
-import logo from "../assets/logo.png";
-import secondLogo from "../assets/maancr.png";
+import logo from "../assets/logo.webp";
+import secondLogo from "../assets/maancr.webp";
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);

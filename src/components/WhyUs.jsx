@@ -1,4 +1,4 @@
-import Banner from "../assets/banner.png";
+import Banner from "../assets/banner.webp";
 
 export default function WhyUs() {
   return (
